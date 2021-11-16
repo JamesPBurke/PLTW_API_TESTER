@@ -5,7 +5,7 @@ This was written on Replit.com, but the program can be used in any Python 3 insa
 
 If you are looking at the githib repository and would like to try running this on replit.com, [go here.](https://replit.com/@DrBurkeEdu/PLTWAPITester)
 
-<a href="https://replit.com/@DrBurkeEdu/PLTWAPITester"><img src="https://replit.com/@DrBurkeEdu/PLTWAPITester#img/runbutton.png"></a>
+[![run button](img/runbutton.png)](https://replit.com/@DrBurkeEdu/PLTWAPITester)
 
 
 
